@@ -40,15 +40,15 @@ Lojik Durum (Logic State): Devre girişlerindeki lojik 0 ve 1 durumlarını ayar
 
 Projenin görsel dökümantasyonunu içeren ekran görüntüleri aşağıda yer almaktadır.
 
-0 sayısı için görsel : <img width="1871" height="930" alt="0" src="https://github.com/user-attachments/assets/5df4a73b-bf44-4e65-ab21-8463a1704384" />
+0 rakamı için görsel : <img width="1871" height="930" alt="0" src="https://github.com/user-attachments/assets/5df4a73b-bf44-4e65-ab21-8463a1704384" />
 
-1 sayısı için görsel : <img width="1920" height="947" alt="1" src="https://github.com/user-attachments/assets/96994fc5-765f-4ef1-bf6b-89ba7fd705bf" />
+1 rakamı için görsel : <img width="1920" height="947" alt="1" src="https://github.com/user-attachments/assets/96994fc5-765f-4ef1-bf6b-89ba7fd705bf" />
 
-2 sayısı için görsel : <img width="1899" height="928" alt="2" src="https://github.com/user-attachments/assets/b8998daf-c9a4-443b-9e1e-d85fe666280a" />
+2 rakamı için görsel : <img width="1899" height="928" alt="2" src="https://github.com/user-attachments/assets/b8998daf-c9a4-443b-9e1e-d85fe666280a" />
 
-4 sayısı için görsel : <img width="1906" height="914" alt="4" src="https://github.com/user-attachments/assets/da8c7d6f-1199-49e1-b352-80304fa63c20" />
+4 rakamı için görsel : <img width="1906" height="914" alt="4" src="https://github.com/user-attachments/assets/da8c7d6f-1199-49e1-b352-80304fa63c20" />
 
-9 sayısı için görsel : <img width="1905" height="921" alt="9" src="https://github.com/user-attachments/assets/83dda832-4084-4cbb-8a53-1a5b7769eaa9" />
+9 rakamı için görsel : <img width="1905" height="921" alt="9" src="https://github.com/user-attachments/assets/83dda832-4084-4cbb-8a53-1a5b7769eaa9" />
 
 
 // LOJİK KAPILARLA DEVRENİN ÇİZİLMESİ : 
